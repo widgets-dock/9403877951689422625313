@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18337353005",
+    "project_id": "animex-comics-of-manga",
+    "storage_bucket": "animex-comics-of-manga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18337353005:android:d82f0ee0774fb67fec57a4",
+        "android_client_info": {
+          "package_name": "com.betahdipaido.cmcsofmgmsgbldsoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18337353005-qt997rubg0cfpl1ahd196ksts70raggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhrQec2BWLfAEA6DN74O1u_8eafvvSwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18337353005-qt997rubg0cfpl1ahd196ksts70raggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
